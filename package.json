@@ -1,0 +1,23 @@
+{
+  "name": "cornerhouse-hugo-theme",
+  "version": "0.1.0",
+  "description": "Hugo theme for https://github.com/surreymagpie/cornerhouse-dental-practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surreymagpie/cornerhouse-hugo-theme.git"
+  },
+  "author": "Rob Curtis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surreymagpie/cornerhouse-hugo-theme/issues"
+  },
+  "homepage": "https://github.com/surreymagpie/cornerhouse-hugo-theme#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
